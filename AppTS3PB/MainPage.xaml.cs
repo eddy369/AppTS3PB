@@ -28,7 +28,7 @@ namespace AppTS3PB
             }
             else
             {
-                DisplayAlert("Ups", "Usuario o Contrasena Incorrecto", "OK");
+                DisplayAlert("ALERTA", "Usuario o Contrasena Incorrecto", "OK");
             }
         }
     }
